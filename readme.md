@@ -1,0 +1,8 @@
+# HBT Website
+
+This is a hotel Website project using simple html and css
+
+### Resource
+
+- [Project Images](https://www.pexels.com/)
+- [Design Ideas](https://themes.getbootstrap.com/)
