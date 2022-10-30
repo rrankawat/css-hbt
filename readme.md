@@ -1,6 +1,6 @@
 # HBT Website
 
-This is a hotel Website project using simple html and css
+This is a hotel website project using simple html and css
 
 ### Resource
 
