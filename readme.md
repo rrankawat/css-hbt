@@ -1,4 +1,4 @@
-# HBT Website
+# Hotel BT Website
 
 This is a hotel website project using simple html and css
 
